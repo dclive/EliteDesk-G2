@@ -1,7 +1,7 @@
 # EliteDesk G2
  HP EliteDesk G2 DM Repository
 
-OpenCore .80 with MacOS 12.4 fully tested and working
+OpenCore .82 with MacOS 12.5 fully tested and working
 
 EliteDesk G2 800 DeskMini with firmware 2.56 (latest as of 5.22.2022)
 
