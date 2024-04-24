@@ -3,7 +3,7 @@
 
 OpenCore .99 with MacOS 14.4.x fully tested and working
 
-EliteDesk G2 800 DeskMini with firmware 2.60 (latest as of 4.24.2024)
+EliteDesk G2 800 DeskMini with firmware 2.62 (latest as of 4.24.2024)
 
 iGPU.  2 DVI output.  I'm using external USBC SSD to boot.  32GB RAM - fully working.
 
