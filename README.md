@@ -12,3 +12,5 @@ Integrated Intel Wifi/BT does not work / is not reliable (endless prompting for 
 Note: Sleep doesn't work due to iGPU; there's no solution to this.
 
 Action required on your part: regenerate serials and such; keep SMBIOS the same.  Works great.
+
+Big credit to [randyzhong](https://github.com/randyzhong) for his work on this.  
