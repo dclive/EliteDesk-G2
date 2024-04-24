@@ -1,5 +1,5 @@
-# EliteDesk G2
- HP EliteDesk G2 DM Repository
+# HP EliteDesk 800 G2
+ HP EliteDesk 800 G2 DM Repository
 
 OpenCore .99 with MacOS 14.4.x fully tested and working
 
