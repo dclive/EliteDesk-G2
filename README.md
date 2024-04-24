@@ -9,6 +9,6 @@ iGPU.  2 DVI output.  I'm using external USBC SSD to boot.  32GB RAM - fully wor
 
 Integrated Intel Wifi/BT does not work / is not reliable (endless prompting for a known-good password which is never accepted); sleep doesn't work; otherwise everything works.  
 
-Note: Sleep doesn't work due to iGPU; there's no solution to this.  This is 
+Note: Sleep doesn't work due to iGPU; there's no solution to this.
 
 Action required on your part: regenerate serials and such; keep SMBIOS the same.  Works great.
