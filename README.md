@@ -1,14 +1,14 @@
 # EliteDesk G2
  HP EliteDesk G2 DM Repository
 
-OpenCore .82 with MacOS 12.5 fully tested and working
+OpenCore .99 with MacOS 14.4.x fully tested and working
 
-EliteDesk G2 800 DeskMini with firmware 2.56 (latest as of 5.22.2022)
+EliteDesk G2 800 DeskMini with firmware 2.60 (latest as of 4.24.2024)
 
-iGPU, Samsung 960 NVME SSD, 32GB RAM - fully working, slow boot due to Samsung 960.
+iGPU.  2 DVI output.  I'm using external USBC SSD to boot.  32GB RAM - fully working.
 
-Integrated Intel Wifi/BT does not work / is not reliable; sleep doesn't work; otherwise everything works 
+Integrated Intel Wifi/BT does not work / is not reliable (endless prompting for a known-good password which is never accepted); sleep doesn't work; otherwise everything works.  
 
-Note: Sleep doesn't work due to iGPU; there's no solution to this
+Note: Sleep doesn't work due to iGPU; there's no solution to this.  This is 
 
-Addendum:  As of 1/1/2023, firmware 2.59 works fine, as does OC87, all running under MacOS 12.6.1.  No further MacOS updates are possible with the current SMBIOS, but I'll look into updating that.
+Action required on your part: regenerate serials and such; keep SMBIOS the same.  Works great.
