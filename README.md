@@ -1,5 +1,7 @@
 # HP EliteDesk 800 G2
- HP EliteDesk 800 G2 DM Repository
+HP EliteDesk 800 G2 DM Repository
+
+As hardware is now sold, there can be no further updates. 
 
 OpenCore .99 with MacOS 14.4.1 fully tested and working
 
@@ -16,3 +18,4 @@ Big credit to [randyzhong](https://github.com/randyzhong) for his work on this.
 I5-6500: 
 
 ![Screenshot 2024-04-24 at 11 11 42 AM](https://private-user-images.githubusercontent.com/4536776/325298777-879ad2b5-ef42-4cfc-8ed4-0ae23fe7ab7e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQxNTY1OTUsIm5iZiI6MTcxNDE1NjI5NSwicGF0aCI6Ii80NTM2Nzc2LzMyNTI5ODc3Ny04NzlhZDJiNS1lZjQyLTRjZmMtOGVkNC0wYWUyM2ZlN2FiN2UucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjZUMTgzMTM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2IzNzY1M2JmZjVmNWZiNzczN2IyMDRkNGFiNzJiYzBkZWYzYWI1YWJiNTU3ZDBkYjNkOWJhM2Q1ZmM1OTJkOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.MR9N6qDbF37E9mueWqkeB_4Ki6zMcnZ6v78giBtD0go)
+
